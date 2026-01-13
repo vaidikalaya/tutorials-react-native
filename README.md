@@ -1,28 +1,20 @@
-**Create New Project**
-- npx @react-native-community/cli@latest init my_app
+**Project Name**
+My App
 
+**Release Date**
+13-01-2026
 
-**Start Project**
-- npm start
-- npm run android
+**Release Given By**
+Vaidikalaya
 
+**Database Changes**
+NO
 
+**Migrations**
+NO
 
-**Physical Device Connection**
+**Configuration/ENV file changes**
+NO
 
-**1. Enable Developer Options**
-- Settings → About phone
-- Tap Build number 7 times
-- Go back → Developer options enabled
-
-
-
-**2. Turn on USB Debugging**
-- Settings → Developer options → enable:
-- USB debugging - ON
-- Install via USB - ON (Optional)
-- USB debugging - ON (Optional) (Security settings) (some brands)
-
-
-**Check List of Connection**
-- adb devices
+**Impacted Files**
+- App.tsx
